@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1485936960 source:d:\faks\materijali - baze podataka 1\code blocks projekat!\bapra50\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+
+1517530861 source:d:\faks\materijali - bp1\code blocks projekat!\bapra50\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+
